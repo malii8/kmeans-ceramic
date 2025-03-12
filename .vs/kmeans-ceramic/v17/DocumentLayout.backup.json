@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olum1\\OneDrive\\Masa\u00FCst\u00FC\\MakinaOgrenmesi\\kmeans-ceramic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA5143F-60AE-430D-9D36-AD2688B59442}|kmeans-ceramic.vcxproj|C:\\Users\\olum1\\OneDrive\\Masa\u00FCst\u00FC\\MakinaOgrenmesi\\kmeans-ceramic\\kmeans-ceramic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AA5143F-60AE-430D-9D36-AD2688B59442}|kmeans-ceramic.vcxproj|solutionrelative:kmeans-ceramic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kmeans-ceramic.cpp",
+              "DocumentMoniker": "C:\\Users\\olum1\\OneDrive\\Masa\u00FCst\u00FC\\MakinaOgrenmesi\\kmeans-ceramic\\kmeans-ceramic.cpp",
+              "RelativeDocumentMoniker": "kmeans-ceramic.cpp",
+              "ToolTip": "C:\\Users\\olum1\\OneDrive\\Masa\u00FCst\u00FC\\MakinaOgrenmesi\\kmeans-ceramic\\kmeans-ceramic.cpp",
+              "RelativeToolTip": "kmeans-ceramic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T20:21:01.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
